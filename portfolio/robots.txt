@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace with your real address after deploying
+Sitemap: https://khudabuxmahar912-prog.github.io/portfolio/sitemap.xml
